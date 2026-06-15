@@ -92,8 +92,8 @@ export default function InternshipJobsPage() {
                 className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm flex justify-between items-center"
               >
                 <div>
-                  <h2 className="text-xl font-semibold">
-                    📌 {job.title}
+                  <h2 className="text-black font-semibold">
+                   📄 {job.title}
                   </h2>
 
                   <p className="text-gray-600 mt-1">

@@ -90,7 +90,7 @@ export default function MaterialsPage() {
                 key={material.id}
                 className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm flex items-center justify-between"
               >
-                <h2 className="text-lg md:text-xl font-semibold">
+                <h2 className="text-black font-semibold">
                   📄 {material.title}
                 </h2>
 

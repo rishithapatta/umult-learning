@@ -91,8 +91,8 @@ export default function CareerResourcesPage() {
                 className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm flex justify-between items-center"
               >
                 <div>
-                  <h2 className="text-xl font-semibold text-black">
-                    📚 {resource.title}
+                  <h2 className="text-black font-semibold">
+                   📄 {resource.title}
                   </h2>
 
                   <p className="text-gray-600 mt-2">
