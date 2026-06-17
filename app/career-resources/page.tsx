@@ -107,7 +107,7 @@ Career Resources
               rel="noopener noreferrer"
               className="bg-black text-white px-5 py-3 rounded-lg hover:opacity-90 transition whitespace-nowrap"
             >
-              Download
+              Open
             </a>
           </div>
         ))
